@@ -1,0 +1,225 @@
+<head>
+<title>Tabelaaaa</title>
+
+<style>
+body { font-family: Arial; text-align: center; }
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+td {
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 11px;
+}
+
+.simbolo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+small { font-size: 13px; }
+
+
+.nao-metal { background: #c8ff88; }
+.semi-metal { background: #95cfb9; }
+.gas-nobre { background: #7396be; }
+.alcalino { background: #f5c16c; }
+.alcalino-terroso { background: #f5e66c; }
+.transicao { background: #ffb8b8; }
+.pos-transicao { background: #b0ced6; }
+.halogeno { background: #b8e5ff; }
+.lantanideo { background: #a4e4de; }
+.actinideo { background: #ddbee2; }
+</style>
+</head>
+
+
+
+<body>
+<h2>Tabela Periódica<br>Eduardo Clemente</h2>
+
+
+
+<table>
+
+
+
+<tr>
+<td class="nao-metal"><small>1</small><br><span class="simbolo">H</span><br><small>Hidrogênio</small></td>
+<td colspan="16"></td>
+<td class="gas-nobre"><small>2</small><br><span class="simbolo">He</span><br><small>Hélio</small></td>
+</tr>
+
+
+
+<tr>
+<td class="alcalino"><small>3</small><br><span class="simbolo">Li</span><br><small>Lítio</small></td>
+<td class="alcalino-terroso"><small>4</small><br><span class="simbolo">Be</span><br><small>Berílio</small></td>
+<td colspan="10"></td>
+<td class="semi-metal"><small>5</small><br><span class="simbolo">B</span><br><small>Boro</small></td>
+<td class="nao-metal"><small>6</small><br><span class="simbolo">C</span><br><small>Carbono</small></td>
+<td class="nao-metal"><small>7</small><br><span class="simbolo">N</span><br><small>Nitrogênio</small></td>
+<td class="nao-metal"><small>8</small><br><span class="simbolo">O</span><br><small>Oxigênio</small></td>
+<td class="halogeno"><small>9</small><br><span class="simbolo">F</span><br><small>Flúor</small></td>
+<td class="gas-nobre"><small>10</small><br><span class="simbolo">Ne</span><br><small>Neônio</small></td>
+</tr>
+
+
+
+<tr>
+<td class="alcalino"><small>11</small><br><span class="simbolo">Na</span><br><small>Sódio</small></td>
+<td class="alcalino-terroso"><small>12</small><br><span class="simbolo">Mg</span><br><small>Magnésio</small></td>
+<td colspan="10"></td>
+<td class="pos-transicao"><small>13</small><br><span class="simbolo">Al</span><br><small>Alumínio</small></td>
+<td class="semi-metal"><small>14</small><br><span class="simbolo">Si</span><br><small>Silício</small></td>
+<td class="nao-metal"><small>15</small><br><span class="simbolo">P</span><br><small>Fósforo</small></td>
+<td class="nao-metal"><small>16</small><br><span class="simbolo">S</span><br><small>Enxofre</small></td>
+<td class="halogeno"><small>17</small><br><span class="simbolo">Cl</span><br><small>Cloro</small></td>
+<td class="gas-nobre"><small>18</small><br><span class="simbolo">Ar</span><br><small>Argônio</small></td>
+</tr>
+
+
+
+<tr>
+<td class="alcalino"><small>19</small><br><span class="simbolo">K</span><br><small>Potássio</small></td>
+<td class="alcalino-terroso"><small>20</small><br><span class="simbolo">Ca</span><br><small>Cálcio</small></td>
+<td class="transicao"><small>21</small><br><span class="simbolo">Sc</span><br><small>Escândio</small></td>
+<td class="transicao"><small>22</small><br><span class="simbolo">Ti</span><br><small>Titânio</small></td>
+<td class="transicao"><small>23</small><br><span class="simbolo">V</span><br><small>Vanádio</small></td>
+<td class="transicao"><small>24</small><br><span class="simbolo">Cr</span><br><small>Cromo</small></td>
+<td class="transicao"><small>25</small><br><span class="simbolo">Mn</span><br><small>Manganês</small></td>
+<td class="transicao"><small>26</small><br><span class="simbolo">Fe</span><br><small>Ferro</small></td>
+<td class="transicao"><small>27</small><br><span class="simbolo">Co</span><br><small>Cobalto</small></td>
+<td class="transicao"><small>28</small><br><span class="simbolo">Ni</span><br><small>Níquel</small></td>
+<td class="transicao"><small>29</small><br><span class="simbolo">Cu</span><br><small>Cobre</small></td>
+<td class="transicao"><small>30</small><br><span class="simbolo">Zn</span><br><small>Zinco</small></td>
+<td class="pos-transicao"><small>31</small><br><span class="simbolo">Ga</span><br><small>Gálio</small></td>
+<td class="semi-metal"><small>32</small><br><span class="simbolo">Ge</span><br><small>Germânio</small></td>
+<td class="semi-metal"><small>33</small><br><span class="simbolo">As</span><br><small>Arsênio</small></td>
+<td class="nao-metal"><small>34</small><br><span class="simbolo">Se</span><br><small>Selênio</small></td>
+<td class="halogeno"><small>35</small><br><span class="simbolo">Br</span><br><small>Bromo</small></td>
+<td class="gas-nobre"><small>36</small><br><span class="simbolo">Kr</span><br><small>Criptônio</small></td>
+</tr>
+
+
+
+<tr>
+<td class="alcalino"><small>37</small><br><span class="simbolo">Rb</span><br><small>Rubídio</small></td>
+<td class="alcalino-terroso"><small>38</small><br><span class="simbolo">Sr</span><br><small>Estrôncio</small></td>
+<td class="transicao"><small>39</small><br><span class="simbolo">Y</span><br><small>Ítrio</small></td>
+<td class="transicao"><small>40</small><br><span class="simbolo">Zr</span><br><small>Zircônio</small></td>
+<td class="transicao"><small>41</small><br><span class="simbolo">Nb</span><br><small>Nióbio</small></td>
+<td class="transicao"><small>42</small><br><span class="simbolo">Mo</span><br><small>Molibdênio</small></td>
+<td class="transicao"><small>43</small><br><span class="simbolo">Tc</span><br><small>Tecnécio</small></td>
+<td class="transicao"><small>44</small><br><span class="simbolo">Ru</span><br><small>Rutênio</small></td>
+<td class="transicao"><small>45</small><br><span class="simbolo">Rh</span><br><small>Ródio</small></td>
+<td class="transicao"><small>46</small><br><span class="simbolo">Pd</span><br><small>Paládio</small></td>
+<td class="transicao"><small>47</small><br><span class="simbolo">Ag</span><br><small>Prata</small></td>
+<td class="transicao"><small>48</small><br><span class="simbolo">Cd</span><br><small>Cádmio</small></td>
+<td class="pos-transicao"><small>49</small><br><span class="simbolo">In</span><br><small>Índio</small></td>
+<td class="pos-transicao"><small>50</small><br><span class="simbolo">Sn</span><br><small>Estanho</small></td>
+<td class="semi-metal"><small>51</small><br><span class="simbolo">Sb</span><br><small>Antimônio</small></td>
+<td class="semi-metal"><small>52</small><br><span class="simbolo">Te</span><br><small>Telúrio</small></td>
+<td class="halogeno"><small>53</small><br><span class="simbolo">I</span><br><small>Iodo</small></td>
+<td class="gas-nobre"><small>54</small><br><span class="simbolo">Xe</span><br><small>Xenônio</small></td>
+</tr>
+
+
+
+<tr>
+<td class="alcalino"><small>55</small><br><span class="simbolo">Cs</span><br><small>Césio</small></td>
+<td class="alcalino-terroso"><small>56</small><br><span class="simbolo">Ba</span><br><small>Bário</small></td>
+<td colspan="1"></td>
+<td class="transicao"><small>72</small><br><span class="simbolo">Hf</span><br><small>Háfnio</small></td>
+<td class="transicao"><small>73</small><br><span class="simbolo">Ta</span><br><small>Tântalo</small></td>
+<td class="transicao"><small>74</small><br><span class="simbolo">W</span><br><small>Tungstênio</small></td>
+<td class="transicao"><small>75</small><br><span class="simbolo">Re</span><br><small>Rênio</small></td>
+<td class="transicao"><small>76</small><br><span class="simbolo">Os</span><br><small>Ósmio</small></td>
+<td class="transicao"><small>77</small><br><span class="simbolo">Ir</span><br><small>Irídio</small></td>
+<td class="transicao"><small>78</small><br><span class="simbolo">Pt</span><br><small>Platina</small></td>
+<td class="transicao"><small>79</small><br><span class="simbolo">Au</span><br><small>Ouro</small></td>
+<td class="transicao"><small>80</small><br><span class="simbolo">Hg</span><br><small>Mercúrio</small></td>
+<td class="pos-transicao"><small>81</small><br><span class="simbolo">Tl</span><br><small>Tálio</small></td>
+<td class="pos-transicao"><small>82</small><br><span class="simbolo">Pb</span><br><small>Chumbo</small></td>
+<td class="pos-transicao"><small>83</small><br><span class="simbolo">Bi</span><br><small>Bismuto</small></td>
+<td class="semi-metal"><small>84</small><br><span class="simbolo">Po</span><br><small>Polônio</small></td>
+<td class="halogeno"><small>85</small><br><span class="simbolo">At</span><br><small>Astato</small></td>
+<td class="gas-nobre"><small>86</small><br><span class="simbolo">Rn</span><br><small>Radônio</small></td>
+</tr>
+
+
+
+<tr>
+<td class="alcalino"><small>87</small><br><span class="simbolo">Fr</span><br><small>Frâncio</small></td>
+<td class="alcalino-terroso"><small>88</small><br><span class="simbolo">Ra</span><br><small>Rádio</small></td>
+<td colspan="1"></td>
+<td class="transicao"><small>104</small><br><span class="simbolo">Rf</span><br><small>Rutherfórdio</small></td>
+<td class="transicao"><small>105</small><br><span class="simbolo">Db</span><br><small>Dúbnio</small></td>
+<td class="transicao"><small>106</small><br><span class="simbolo">Sg</span><br><small>Seabórgio</small></td>
+<td class="transicao"><small>107</small><br><span class="simbolo">Bh</span><br><small>Bóhrio</small></td>
+<td class="transicao"><small>108</small><br><span class="simbolo">Hs</span><br><small>Hássio</small></td>
+<td class="transicao"><small>109</small><br><span class="simbolo">Mt</span><br><small>Meitnério</small></td>
+<td class="transicao"><small>110</small><br><span class="simbolo">Ds</span><br><small>Darmstádio</small></td>
+<td class="transicao"><small>111</small><br><span class="simbolo">Rg</span><br><small>Roentgênio</small></td>
+<td class="transicao"><small>112</small><br><span class="simbolo">Cn</span><br><small>Copernício</small></td>
+<td class="pos-transicao"><small>113</small><br><span class="simbolo">Nh</span><br><small>Nihônio</small></td>
+<td class="pos-transicao"><small>114</small><br><span class="simbolo">Fl</span><br><small>Fleróvio</small></td>
+<td class="pos-transicao"><small>115</small><br><span class="simbolo">Mc</span><br><small>Moscóvio</small></td>
+<td class="pos-transicao"><small>116</small><br><span class="simbolo">Lv</span><br><small>Livermório</small></td>
+<td class="halogeno"><small>117</small><br><span class="simbolo">Ts</span><br><small>Tennessino</small></td>
+<td class="gas-nobre"><small>118</small><br><span class="simbolo">Og</span><br><small>Oganessônio</small></td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td class="lantanideo">58<br><span class="simbolo">Ce</span><br><small>Cério</small></td>
+<td class="lantanideo">59<br><span class="simbolo">Pr</span><br><small>Praseodímio</small></td>
+<td class="lantanideo">60<br><span class="simbolo">Nd</span><br><small>Neodímio</small></td>
+<td class="lantanideo">61<br><span class="simbolo">Pm</span><br><small>Promécio</small></td>
+<td class="lantanideo">62<br><span class="simbolo">Sm</span><br><small>Samário</small></td>
+<td class="lantanideo">63<br><span class="simbolo">Eu</span><br><small>Európio</small></td>
+<td class="lantanideo">64<br><span class="simbolo">Gd</span><br><small>Gadolínio</small></td>
+<td class="lantanideo">65<br><span class="simbolo">Tb</span><br><small>Térbio</small></td>
+<td class="lantanideo">66<br><span class="simbolo">Dy</span><br><small>Disprósio</small></td>
+<td class="lantanideo">67<br><span class="simbolo">Ho</span><br><small>Hólmio</small></td>
+<td class="lantanideo">68<br><span class="simbolo">Er</span><br><small>Érbio</small></td>
+<td class="lantanideo">69<br><span class="simbolo">Tm</span><br><small>Túlio</small></td>
+<td class="lantanideo">70<br><span class="simbolo">Yb</span><br><small>Itérbio</small></td>
+<td class="lantanideo">71<br><span class="simbolo">Lu</span><br><small>Lutécio</small></td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td class="actinideo">90<br><span class="simbolo">Th</span><br><small>Tório</small></td>
+<td class="actinideo">91<br><span class="simbolo">Pa</span><br><small>Protactínio</small></td>
+<td class="actinideo">92<br><span class="simbolo">U</span><br><small>Urânio</small></td>
+<td class="actinideo">93<br><span class="simbolo">Np</span><br><small>Netúnio</small></td>
+<td class="actinideo">94<br><span class="simbolo">Pu</span><br><small>Plutônio</small></td>
+<td class="actinideo">95<br><span class="simbolo">Am</span><br><small>Amerício</small></td>
+<td class="actinideo">96<br><span class="simbolo">Cm</span><br><small>Cúrio</small></td>
+<td class="actinideo">97<br><span class="simbolo">Bk</span><br><small>Berquélio</small></td>
+<td class="actinideo">98<br><span class="simbolo">Cf</span><br><small>Califórnio</small></td>
+<td class="actinideo">99<br><span class="simbolo">Es</span><br><small>Einstênio</small></td>
+<td class="actinideo">100<br><span class="simbolo">Fm</span><br><small>Férmio</small></td>
+<td class="actinideo">101<br><span class="simbolo">Md</span><br><small>Mendelévio</small></td>
+<td class="actinideo">102<br><span class="simbolo">No</span><br><small>Nobélio</small></td>
+<td class="actinideo">103<br><span class="simbolo">Lr</span><br><small>Laurêncio</small></td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
